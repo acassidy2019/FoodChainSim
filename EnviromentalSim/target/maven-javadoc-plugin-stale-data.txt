@@ -1,0 +1,49 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/acass/OneDrive/Documents/NetBeansProjects/EnviromentalSim/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/acass/OneDrive/Documents/NetBeansProjects/EnviromentalSim/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'EnviromentalSim 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'EnviromentalSim 1.0-SNAPSHOT API'
+com.mycompany.enviromentalsim
+'C:/Users/acass/OneDrive/Documents/NetBeansProjects/EnviromentalSim/src/main/java/com/mycompany/enviromentalsim/EnvironmentalSim.java'
+'C:/Users/acass/OneDrive/Documents/NetBeansProjects/EnviromentalSim/src/main/java/com/mycompany/enviromentalsim/Sprite.java'
+C:\Users\acass\OneDrive\Documents\NetBeansProjects\EnviromentalSim\src\main\java = 1674503323463
+C:\Users\acass\OneDrive\Documents\NetBeansProjects\EnviromentalSim\target\apidocs\allclasses-index.html = 1674595837773
+C:\Users\acass\OneDrive\Documents\NetBeansProjects\EnviromentalSim\target\apidocs\allpackages-index.html = 1674595837774
+C:\Users\acass\OneDrive\Documents\NetBeansProjects\EnviromentalSim\target\apidocs\copy.svg = 1674595837801
+C:\Users\acass\OneDrive\Documents\NetBeansProjects\EnviromentalSim\target\apidocs\element-list = 1674595837686
+C:\Users\acass\OneDrive\Documents\NetBeansProjects\EnviromentalSim\target\apidocs\help-doc.html = 1674595837796
+C:\Users\acass\OneDrive\Documents\NetBeansProjects\EnviromentalSim\target\apidocs\index-all.html = 1674595837788
+C:\Users\acass\OneDrive\Documents\NetBeansProjects\EnviromentalSim\target\apidocs\index.html = 1674595837792
+C:\Users\acass\OneDrive\Documents\NetBeansProjects\EnviromentalSim\target\apidocs\jquery-ui.overrides.css = 1674595837811
+C:\Users\acass\OneDrive\Documents\NetBeansProjects\EnviromentalSim\target\apidocs\member-search-index.js = 1674595837777
+C:\Users\acass\OneDrive\Documents\NetBeansProjects\EnviromentalSim\target\apidocs\module-search-index.js = 1674595837775
+C:\Users\acass\OneDrive\Documents\NetBeansProjects\EnviromentalSim\target\apidocs\overview-tree.html = 1674595837763
+C:\Users\acass\OneDrive\Documents\NetBeansProjects\EnviromentalSim\target\apidocs\package-search-index.js = 1674595837776
+C:\Users\acass\OneDrive\Documents\NetBeansProjects\EnviromentalSim\target\apidocs\script.js = 1674595837800
+C:\Users\acass\OneDrive\Documents\NetBeansProjects\EnviromentalSim\target\apidocs\search-page.js = 1674595837805
+C:\Users\acass\OneDrive\Documents\NetBeansProjects\EnviromentalSim\target\apidocs\search.html = 1674595837789
+C:\Users\acass\OneDrive\Documents\NetBeansProjects\EnviromentalSim\target\apidocs\search.js = 1674595837803
+C:\Users\acass\OneDrive\Documents\NetBeansProjects\EnviromentalSim\target\apidocs\serialized-form.html = 1674595837738
+C:\Users\acass\OneDrive\Documents\NetBeansProjects\EnviromentalSim\target\apidocs\stylesheet.css = 1674595837798
+C:\Users\acass\OneDrive\Documents\NetBeansProjects\EnviromentalSim\target\apidocs\tag-search-index.js = 1674595837779
+C:\Users\acass\OneDrive\Documents\NetBeansProjects\EnviromentalSim\target\apidocs\type-search-index.js = 1674595837777
